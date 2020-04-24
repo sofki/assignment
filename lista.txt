@@ -3,7 +3,4 @@ ntomates
 kremmudia
 gala carnation kai kotes
 sto supermarket sto supermarket tha vroume
-<<<<<<< HEAD
-=======
 freska katepsugmena kai plastika
->>>>>>> update-lista
