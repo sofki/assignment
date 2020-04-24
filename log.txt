@@ -1,0 +1,17 @@
+commit 3109b0c8b664cb5c004beba4ee45b37441f6e1d0
+Author: sofki <skyriakidi@gmail.com>
+Date:   Fri Apr 24 19:33:58 2020 +0300
+
+    added gitignore
+
+commit 13b661444dd3bc40086d8e73db4e270d46da3354
+Author: sofki <skyriakidi@gmail.com>
+Date:   Fri Apr 24 19:14:14 2020 +0300
+
+    created files
+
+commit 4a260d61a3883e116666435ca4b764cb3fd5a409
+Author: sofki <skyriakidi@gmail.com>
+Date:   Fri Apr 24 19:11:01 2020 +0300
+
+    created a file called lista.txt
